@@ -13,7 +13,7 @@
  my site is built using [github pages](https://pages.github.com/)
  - John
  - Dillon
- -Enthony
+ - Enthony
     
 
 
