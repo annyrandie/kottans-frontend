@@ -1,4 +1,5 @@
 # kottans-frontend
-kottans online course
- > this is bold text
+*kottans online course*
  
+ 
+**_some `text` is here_**
