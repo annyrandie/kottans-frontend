@@ -7,6 +7,5 @@
    this is block
     this is block
     
-    ```
-    and this is not a block
+`and this is not a block`
 
