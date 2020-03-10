@@ -1,5 +1,5 @@
 # kottans-frontend
-*kottans online course*
+**kottans _online_ course**
  
  
-**_some `text` is here_**
+
