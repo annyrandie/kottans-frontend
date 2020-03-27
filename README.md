@@ -8,6 +8,6 @@ I didn't work in a team greather than two people, so merging and resolving confl
 ```
 
 ## Linux CLI, and HTTP
-![screenshot][https://github.com/annyrandie/kottans-frontend/blob/master/task_linux_cli/linux_finished.PNG]
-
+![screenshot][logo]
+[logo]:https://github.com/annyrandie/kottans-frontend/blob/master/task_linux_cli/linux_finished.PNG
 
