@@ -10,3 +10,5 @@ I didn't work in a team greather than two people, so merging and resolving confl
 ## Linux CLI, and HTTP
 ![screenshot](https://github.com/annyrandie/kottans-frontend/blob/master/task_linux_cli/linux_finished.PNG)
 
+1. Nice course made as a game. Learnt a lot of new. Linux security topic was a bit difficult. Will use linux commands is terminal more often.
+2. Second and third parts articles well presented. Would be nice to have more examples. 
